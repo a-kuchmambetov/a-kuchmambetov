@@ -1,3 +1,4 @@
+<img width="2056" height="765" alt="background-card" src="https://github.com/user-attachments/assets/939482ac-62a8-4a6e-8c8c-affbdbb93963" />
 <h1 align="center">Hi, I'm Artem Kuchmambetov</h1>
 
 <p align="center">
@@ -12,7 +13,7 @@
   <a href="https://www.linkedin.com/in/artem-ko">
     <img src="https://img.shields.io/badge/LinkedIn-Artem%20Kuchmambetov-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.kuchmambetov.dev">
+  <a href="https://kuchmambetov.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" />
   </a>
 </p>
