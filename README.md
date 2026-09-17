@@ -1,4 +1,4 @@
-<img width="2056" height="765" alt="background-card" src="https://github.com/user-attachments/assets/939482ac-62a8-4a6e-8c8c-affbdbb93963" />
+<img width="2056" height="765" alt="Building Reliable Web Applications" src="https://github.com/user-attachments/assets/bd328161-903b-466e-93f6-5274cc5fc74c" />
 <h1 align="center">Hi, I'm Artem Kuchmambetov</h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:contact@artemk.work">
-    <img src="https://img.shields.io/badge/Email-artem%40kuchmambetov.dev-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-contact%40artemk.work-blue?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/artem-ko">
     <img src="https://img.shields.io/badge/LinkedIn-Artem%20Kuchmambetov-0A66C2?style=for-the-badge&logo=linkedin" />
