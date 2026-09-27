@@ -59,6 +59,7 @@ I like practical engineering: readable code, reliable systems, clear APIs, and s
 
 ### Currently focused on
 
+- Solution Architecture
 - Backend engineering
 - Full-stack product development
 - Linux, Docker, and deployment workflows
